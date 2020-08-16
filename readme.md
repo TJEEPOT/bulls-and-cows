@@ -9,4 +9,4 @@ To fulfil the design requirements for this project, I needed to allow the user t
 * Good coding practices including layout and commenting
 
 ## Usage Notes ##
-Compile as usual with GCC or G++.
+Compile main.cpp with GCC or G++. There are no command line arguments.
